@@ -38,10 +38,10 @@ This relative path url was joined to the base url.
  c. the full resolution images were pulled and joined to the base urls.
  d. the image titles and the full resolution images were put into a list of dictionaries.
  e. This code was moved and cleaned into a scraping.py file so it could be used by the app.py file. Available here
- (https://github.com/davidmcbee/Mission-to-Mars/blob/master/scraping.py)
+ (https://github.com/davidmcbee/Mission-to-Mars/blob/master/app.py)
 ### Storing
 The app file was created, viewable here
-(https://github.com/davidmcbee/Mission-to-Mars/blob/master/app.py)
+(https://github.com/davidmcbee/Mission-to-Mars/blob/master/scraping.py)
 This code uses Flask and PyMongo (so the python can interact with the Mondo DB).
 the file does the following:
 1. imports the scraping file.
@@ -62,7 +62,7 @@ the index.html file was created to configure the web page and display the scrape
 
 ## The End Product
 The top half of the web page is shown here in figure 2
-![](top half)
+![](https://github.com/davidmcbee/Mission-to-Mars/blob/master/images/Top_half_web_pg.png)
 
 Figure 2
 
@@ -79,12 +79,13 @@ The black better matches the look of the web page.
 was to small as compared to the featured image title. The fact table was put into a container with a class of container-fluid. This
 allowed its movement to better align the table within the right 4 columns in the grid. The title was changed to "h2." this made it consistent with the featured image title.
 3. You can also see from figure 3, that this page will work with mobile devices.
-![](mobile)
+![](https://github.com/davidmcbee/Mission-to-Mars/blob/master/images/mobile_enabled.png)
 
 Figure 3
+
 ### Bottom Area
 The bottom half of the web page, shown here in figure 4
-![](bottom half
+![](https://github.com/davidmcbee/Mission-to-Mars/blob/master/images/Bottom%20half.png)
 
 Figure 4
 
