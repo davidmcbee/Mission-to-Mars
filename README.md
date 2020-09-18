@@ -25,7 +25,7 @@ Lets look at the results in context of the process of scraping, storage and disp
 
 ### Scraping
 The scraping python code was developed in Jupyter Notebook and is available to view here
-(ipynb file)
+(https://github.com/davidmcbee/Mission-to-Mars/blob/master/Mission_to_Mars_Challenge.ipynb)
 1. the news article was scraped by using Splinter and beautifulSoup to get the content title and the article_teaser_body
 2. The Feature image was scraped by using Splinter and beautifulSoup to get the src (the image url) by filtering on figure.lede and a img.
 This relative path url was joined to the base url.
