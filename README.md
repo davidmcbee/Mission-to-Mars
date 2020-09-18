@@ -17,7 +17,7 @@ Additionally, she used Pandas to help collect and organize her data in Jupyter n
 collects is not structured. There are tables, articles and images.
 4. to tie the scraping retrieval, the storage and to display this data in a webpage, Robin used Flask.
 This environment can be logically viewed in Figure 1. Below
-![] ()
+![](https://github.com/davidmcbee/Mission-to-Mars/blob/master/images/fig_1_env.png)
 
 
 ## Results
