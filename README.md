@@ -38,10 +38,10 @@ This relative path url was joined to the base url.
  c. the full resolution images were pulled and joined to the base urls.
  d. the image titles and the full resolution images were put into a list of dictionaries.
  e. This code was moved and cleaned into a scraping.py file so it could be used by the app.py file. Available here
- (https://github.com/davidmcbee/Mission-to-Mars/blob/master/app.py)
+ (https://github.com/davidmcbee/Mission-to-Mars/blob/master/scraping.py)
 ### Storing
 The app file was created, viewable here
-(https://github.com/davidmcbee/Mission-to-Mars/blob/master/scraping.py)
+(https://github.com/davidmcbee/Mission-to-Mars/blob/master/app.py)
 This code uses Flask and PyMongo (so the python can interact with the Mondo DB).
 the file does the following:
 1. imports the scraping file.
