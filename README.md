@@ -1,12 +1,12 @@
 # Mission-to-Mars
 ## Background and Purpose
-Robin is interested in getting a job with NASA as she has always been interested in Mars. To help fulfil this dream she
-has decided to build a website to put collect and display various information about Mars. Her hopes are that this will get
+Robin is interested in getting a job with NASA as she has always been interested in Mars. To help her fulfil this dream she
+has decided to build a website to collect and display various information about Mars. Her hopes are that this will get
 noticed by NASA and thus help her in her quest to become a NASA employee.
 
 ## Project Overview
 To create this website Robin accomplished the following steps:
-1. Robin used python. First using Jupyter Notebook to create her scraping to go to the following websites to scrape relevant data.
+1. Robin used python. Using Jupyter Notebook to create her scraping she went to the following websites to scrape relevant data.
 	a. to collect the latest news regarding Mars she went to https://mars.nasa.gov/news/
 	b. To collect featured images she went to https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars
 	c, To provide basic facts on Mars she went to http://space-facts.com/mars/
