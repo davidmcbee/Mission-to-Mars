@@ -7,9 +7,9 @@ noticed by NASA and thus help her in her quest to become a NASA employee.
 ## Project Overview
 To create this website Robin accomplished the following steps:
 1. Robin used python. Using Jupyter Notebook to create her scraping she went to the following websites to scrape relevant data.
-  a. to collect the latest news regarding Mars she went to https://mars.nasa.gov/news/
-  b. To collect featured images she went to https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars
-  c. To provide basic facts on Mars she went to http://space-facts.com/mars/
+* to collect the latest news regarding Mars she went to https://mars.nasa.gov/news/
+* To collect featured images she went to https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars
+* To provide basic facts on Mars she went to http://space-facts.com/mars/
 2. To scrape parts from each of these websites she used Splinter, which automates the scraping process. This required the use of
 chromedriver. Along with Splinter she used BeautifulSoup. BeautifulSoup helps to locate the parts of html that will be scraped.
 Additionally, she used Pandas to help collect and organize her data in Jupyter notebook
