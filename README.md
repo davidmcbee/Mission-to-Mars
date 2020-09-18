@@ -20,9 +20,8 @@ This environment can be logically viewed in Figure 1. Below
 
 ![](https://github.com/davidmcbee/Mission-to-Mars/blob/master/images/fig_1_env.png)
 
-
 ## Results
-Lets look at the results as the process of scraping, storage and displaying occurs.
+Lets look at the results in context of the process of scraping, storage and displaying.
 
 ### Scraping
 The scraping python code was developed in Jupyter Notebook and is available to view here
